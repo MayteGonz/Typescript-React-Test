@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Matemáticas",
+    "type": "Obligatoria",
+    "course": "1º Bachillerato",
+    "group": "B",
+    "hoursPerWeek": 5,
+    "spot": "1º Bach - Grupo B"
+  },
+  {
+    "id": 2,
+    "name": "Matemáticas",
+    "type": "Obligatoria",
+    "course": "2º Bachillerato",
+    "group": "C",
+    "hoursPerWeek": 5,
+    "spot": "2º Bach - Grupo C"
+  },
+  {
+    "id": 3,
+    "name": "Física y Química",
+    "type": "Obligatoria",
+    "course": "4º ESO",
+    "group": "A",
+    "hoursPerWeek": 5,
+    "spot": "Laboratorio"
+  },
+  {
+    "id": 4,
+    "name": "Francés",
+    "type": "Optativa",
+    "course": "1º Bachillerato",
+    "group": "A*",
+    "hoursPerWeek": 3,
+    "spot": "1º Bach - Grupo A"
+  }
+]
